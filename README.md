@@ -20,7 +20,7 @@
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                 height="40" margin-right="3px"/> </a> <a href="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40"
                 height="40" margin-right="3px"/> </a> <a href="https://reactjs.org" target="_blank"> 
-                <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" alt="Ruby" width="40"
+                <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg" alt="Ruby" width="40"
                 height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
                 src="https://img.icons8.com/color/452/amazon-web-services.png" alt="AWS" width="40"
                 height="40" margin-right="3px"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img
