@@ -10,7 +10,7 @@
 - 💻 Me encanta el Desarrollo de Aplicaciones Web tanto backend como frontend.
 - :speech_balloon: Contáctame en **c.m.budrovich@gmail.com**
 - :link: Conéctate conmigo: <a href="https://www.linkedin.com/in/cristian-monsalve-budrovich/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Cristian Andres Monsalve Budrovich" height="30" width="25"/></a>
-- I’m currently working on:
+- visita polyden.cl :):
     - :Polyden SpA: I'm Co-Founder, Representate legal. <a href="https://www.polyden.cl" target="_blank"><img align="center" src="" height="30" width="30"></a>
 
 <h3 align="left">Lenguajes y Herramientas :bowtie::</h3>
@@ -37,4 +37,4 @@
                 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianmonsalve14&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="cristianmonsalve14" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianmonsalve14&show_icons=true&locale=en&theme=tokyonight" alt="cristianmonsalve14" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianmonsalve14&theme=dark" alt="cristianmonsalve14" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianmonsalve14&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="cristianmonsalve14" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianmonsalve14&show_icons=true&locale=en&theme=tokyonight" alt="cristianmonsalve14" />
