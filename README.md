@@ -8,7 +8,7 @@
 - ⌨️ Desarrollador Full Stack
 - 👨‍🏫 Estudiante de Ingenieria Informática, Duoc Valparaiso. 
 - 💻 Me encanta el Desarrollo de Aplicaciones Web tanto backend como frontend.
-- :speech_balloon: Contáctame en **c.m.budrovich@gmail.com**
+- :speech_balloon: Contáctame en **linkedin**
 - :link: Conéctate conmigo: <a href="https://www.linkedin.com/in/cristian-monsalve-budrovich/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Cristian Andres Monsalve Budrovich" height="30" width="25"/></a>
 - visita polyden.cl :):
     - :Polyden SpA: I'm Co-Founder, Representate legal. <a href="https://www.polyden.cl" target="_blank"><img align="center" src="" height="30" width="30"></a>
